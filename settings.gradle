@@ -1,0 +1,8 @@
+rootProject.name = 'project'
+include 'scanner'
+include 'parser'
+include 'interpreter'
+include 'interpreter'
+include 'dumper'
+include 'cli'
+

@@ -1,0 +1,7 @@
+plugins {
+    id 'java-library'
+}
+
+group 'edu.austral.ingsis'
+version '1.0-SNAPSHOT'
+
