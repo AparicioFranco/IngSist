@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5191a6fc-8aa6-4235-b723-fb0149865a0f" name="Default Changelist" comment="" />
+    <list default="true" id="5191a6fc-8aa6-4235-b723-fb0149865a0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cli/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/src/main/java/edu/austral/ingsis/cliApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/cli/src/main/java/edu/austral/ingsis/cliApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dumper/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/dumper/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/dumperApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/dumperApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpreter/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/interpreter/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/interpreterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/interpreterApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/parser/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/app.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scanner/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/scanner/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scannerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scannerApp.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -34,28 +49,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dumper/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/dumperApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cli/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -67,17 +64,53 @@
               <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding>
                 <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/interpreterApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/app.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/Scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scannerApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cli/src/main/java/edu/austral/ingsis/cliApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -89,19 +122,7 @@
               <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding>
                 <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scannerApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" />
-              <folding>
-                <element signature="e#0#314#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,25 +132,16 @@
         <entry file="file://$PROJECT_DIR$/scanner/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/app.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parser/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/interpreterApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="17">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -143,30 +155,33 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/parser/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scan.java" />
         <option value="$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/Scanner.java" />
         <option value="$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/parserMethod.java" />
         <option value="$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/Parser.java" />
-        <option value="$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/app.java" />
         <option value="$PROJECT_DIR$/interpreter/src/main/java/edu.austral.ingsis/interpreterApp.java" />
         <option value="$PROJECT_DIR$/interpreter/src/main/java/edu.austral.ingsis/app.java" />
         <option value="$PROJECT_DIR$/interpreter/src/main/java/edu.austral.ingsis/app2.java" />
-        <option value="$PROJECT_DIR$/interpreter/build.gradle" />
-        <option value="$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/interpreterApp.java" />
-        <option value="$PROJECT_DIR$/dumper/build.gradle" />
         <option value="$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/Interpreter.java" />
-        <option value="$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/dumperApp.java" />
-        <option value="$PROJECT_DIR$/cli/build.gradle" />
         <option value="$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/Dumper.java" />
-        <option value="$PROJECT_DIR$/cli/src/main/java/edu/austral/ingsis/cliApp.java" />
         <option value="$PROJECT_DIR$/cli/src/main/java/edu/austral/ingsis/CLI.java" />
-        <option value="$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scannerApp.java" />
+        <option value="$PROJECT_DIR$/dumper/build.gradle" />
+        <option value="$PROJECT_DIR$/interpreter/build.gradle" />
         <option value="$PROJECT_DIR$/scanner/build.gradle" />
+        <option value="$PROJECT_DIR$/cli/build.gradle" />
+        <option value="$PROJECT_DIR$/cli/src/main/java/edu/austral/ingsis/cliApp.java" />
+        <option value="$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/dumperApp.java" />
+        <option value="$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/interpreterApp.java" />
+        <option value="$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/app.java" />
+        <option value="$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scannerApp.java" />
+        <option value="$PROJECT_DIR$/parser/build.gradle" />
       </list>
     </option>
   </component>
@@ -179,6 +194,7 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -192,6 +208,16 @@
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scanner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -200,6 +226,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -230,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.cliApp">
+  <component name="RunManager" selected="Application.scannerApp">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -343,12 +370,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616169974616</updated>
-      <workItem from="1616169975896" duration="2835000" />
+      <workItem from="1616169975896" duration="3108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2835000" />
+    <option name="totallyTimeSpent" value="3108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,6 +388,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -369,7 +397,7 @@
       <window_info id="Capture Tool" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3286119" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -377,7 +405,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,31 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parser/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interpreter/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/Interpreter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -487,26 +490,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dumper/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interpreter/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cli/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/Dumper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -516,53 +515,75 @@
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding>
             <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scannerApp.java">
+    <entry file="file://$PROJECT_DIR$/cli/src/main/java/edu/austral/ingsis/cliApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/dumperApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/Dumper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding>
-            <element signature="e#0#314#0" expanded="true" />
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scanner/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/app.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/interpreter/src/main/java/edu/austral/ingsis/interpreterApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dumper/src/main/java/edu/austral/ingsis/dumperApp.java">
+    <entry file="file://$PROJECT_DIR$/parser/src/main/java/edu/austral/ingsis/app.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cli/src/main/java/edu/austral/ingsis/cliApp.java">
+    <entry file="file://$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scanner/src/main/java/edu/austral/ingsis/scannerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scanner/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>

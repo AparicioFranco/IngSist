@@ -1,10 +1,11 @@
 plugins {
     id 'java-library'
+    id 'application'
 }
 
 group 'edu.austral.ingsis'
 version '1.0-SNAPSHOT'
-//
-//dependencies {
-//    implementation project(':cli')
-//}
+
+dependencies {
+    implementation project(':')
+}

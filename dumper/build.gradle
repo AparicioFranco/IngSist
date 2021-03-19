@@ -1,5 +1,5 @@
 plugins {
-    id 'java'
+    id 'java-library'
     id 'application'
 }
 
@@ -8,6 +8,6 @@ version '1.0-SNAPSHOT'
 
 
 dependencies {
-    implementation project(':interpreter')
+    implementation project(':')
 }
 
